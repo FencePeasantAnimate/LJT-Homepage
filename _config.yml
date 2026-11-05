@@ -10,8 +10,8 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu is a Ph.D. candidate in Computer Science at the Hong Kong University of Science and Technology (HKUST NLP Group), researching natural language processing and machine learning."
-url                      : https://fencepeasantanimate.github.io/LJT-Homepage # the base hostname & protocol for your site; for this project page it includes the repository subpath
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://fencepeasantanimate.github.io # the base hostname & protocol for your site (origin only for a project page; the repository subpath goes in baseurl)
+baseurl                  : "/LJT-Homepage" # the subpath of this project site, e.g. "/LJT-Homepage"
 repository               : "FencePeasantAnimate/LJT-Homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
